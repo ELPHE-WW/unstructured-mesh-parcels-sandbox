@@ -1,0 +1,9 @@
+
+name: uop_sandbox
+dependencies:
+  - python>=3.5
+  - anaconda
+  - pip
+  - jupyter
+  - pip:
+    - -r requirements.txt
