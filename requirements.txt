@@ -3,3 +3,5 @@ pandas
 xarray
 jupyterlab
 matplotlib
+uxarray
+pyinterp
